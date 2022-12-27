@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Qurre/.vs/Qurre
+/Qurre/Loader/bin/Debug
+/Qurre/Loader/obj
+/Qurre/Loader/bin/Release
